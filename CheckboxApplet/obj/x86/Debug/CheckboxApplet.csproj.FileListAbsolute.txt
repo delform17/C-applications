@@ -1,0 +1,19 @@
+D:\c# apps\CheckboxApplet\CheckboxApplet\bin\Debug\CheckboxApplet.exe
+D:\c# apps\CheckboxApplet\CheckboxApplet\bin\Debug\CheckboxApplet.pdb
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.CheckYourCar.resources
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.Form1.resources
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.Properties.Resources.resources
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.exe
+D:\c# apps\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.pdb
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.exe
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.pdb
+C:\C#\CheckboxApplet\CheckboxApplet\bin\Debug\CheckboxApplet.exe
+C:\C#\CheckboxApplet\CheckboxApplet\bin\Debug\CheckboxApplet.pdb
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.csprojResolveAssemblyReference.cache
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.CheckYourCar.resources
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.Form1.resources
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.Properties.Resources.resources
+C:\C#\CheckboxApplet\CheckboxApplet\obj\x86\Debug\CheckboxApplet.csproj.GenerateResource.Cache
